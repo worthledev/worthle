@@ -13,7 +13,9 @@ A daily deduction game transforming official public financial disclosures into c
 
 <br/>
 
-**[🇺🇸 US Congress](https://worthle.app/us)** &nbsp;•&nbsp; **[🇬🇧 UK Parliament](https://worthle.app/uk)** &nbsp;•&nbsp; **[🇨🇦 Parliament of Canada](https://worthle.app/ca)**
+<a href="https://worthle.app/us"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="18" height="18" alt="US" /> <b>US Congress</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+<a href="https://worthle.app/uk"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ec-1f1e7.svg" width="18" height="18" alt="UK" /> <b>UK Parliament</b></a> &nbsp;&nbsp;•&nbsp;&nbsp; 
+<a href="https://worthle.app/ca"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="18" height="18" alt="CA" /> <b>Parliament of Canada</b></a>
 
 ---
 
@@ -41,13 +43,13 @@ Most citizens only recognize a tiny handful of celebrity politicians, yet hundre
 
 Worthle is strictly non-partisan and built on transparency. All estimates and ranges are compiled directly from public government disclosure databases:
 
-- **🇺🇸 United States:** 
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1fa-1f1f8.svg" width="15" height="15" alt="US" /> **United States:** 
   - U.S. Senate Office of Public Records (OGE Form 278e)
   - U.S. House Office of the Clerk Financial Disclosures
   - Center for Responsive Politics (OpenSecrets)
-- **🇬🇧 United Kingdom:** 
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1ec-1f1e7.svg" width="15" height="15" alt="UK" /> **United Kingdom:** 
   - UK Parliament Register of Members' Financial Interests
-- **🇨🇦 Canada:** 
+- <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e8-1f1e6.svg" width="15" height="15" alt="CA" /> **Canada:** 
   - Office of the Conflict of Interest and Ethics Commissioner (Public Registry)
 
 ---
